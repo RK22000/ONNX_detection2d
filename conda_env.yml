@@ -1,0 +1,23 @@
+name: 
+channels:
+- pytorch
+- conda-forge
+dependencies:
+- cpuonly
+- ipython
+- jupyter
+- pandas
+- pip
+- python=3.10
+- pytorch
+- seaborn
+- torchaudio
+- torchvision
+- tqdm
+- pip
+- pip:
+    - onnx 
+    - onnxscript
+    - onnxruntime
+    - opencv-python
+

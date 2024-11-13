@@ -1,3 +1,9 @@
-.env
+.env6
 .ipynb_checkpoints/
 pics
+fcos_onnx/
+fcos_torch/
+frcnn_onnx/
+frcnn_torch/
+vids
+*.onnx 
